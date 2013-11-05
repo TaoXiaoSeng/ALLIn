@@ -12,13 +12,13 @@ Call the following function to set the app language as chinese-simple language.
 
 	[I18NManager setAppLanguage:I18N_cn];
 	
-Then an notification ```kNotificationAppLanguageDidChange``` will be sent, you'd better to receive it, and in its selector, you should do some works to reload some localization string datas which you have already set them in previous language environment.
+Then a notification ```kNotificationAppLanguageDidChange``` will be sent, you'd better to receive it, and in its selector, you should do some works to reload the localization string datas which you have already set in the previous language environment.
 
 **For more details please check the codes.**
 
 **If you have some more advices, please contact me, i'm great happy to communicate with you guys.**
 
-You need to open it with XCode5.
+The project should be opened with XCode5.
 
 
 # License
