@@ -4,6 +4,7 @@
 I18NManager is used to change languages in app, Like Weibo, WeChat. But i really don't know how they do such a work, so i have to find my way to realize it.
 
 
+
 ## Usage
 A demo to show the way how to change language in app and let it load string in corresponding localization string, and also save the language you set so that the app will load corresponding localization strings in the next launch.
 
@@ -16,6 +17,8 @@ Then an notification ```kNotificationAppLanguageDidChange``` will be sent, you'd
 **For more details please check the codes.**
 
 **If you have some more advices, please contact me, i'm great happy to communicate with you guys.**
+
+You need to open it with XCode5.
 
 
 # License
